@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.charlottejacobs.net/</loc>
+  <lastmod>2012-08-10T21:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.charlottejacobs.net/index.html</loc>
+  <lastmod>2012-08-10T21:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.charlottejacobs.net/about.html</loc>
+  <lastmod>2012-08-10T21:38:39+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.charlottejacobs.net/kaplan.html</loc>
+  <lastmod>2012-08-10T21:38:44+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.charlottejacobs.net/interviews.html</loc>
+  <lastmod>2012-08-10T21:38:43+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.charlottejacobs.net/salk.html</loc>
+  <lastmod>2012-08-10T21:38:46+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.charlottejacobs.net/type.html</loc>
+  <lastmod>2012-08-10T21:38:47+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.charlottejacobs.net/cv.html</loc>
+  <lastmod>2012-08-16T23:52:32+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.charlottejacobs.net/writing.html</loc>
+  <lastmod>2012-08-10T21:38:48+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.charlottejacobs.net/reviews.html</loc>
+  <lastmod>2012-08-10T21:38:45+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.charlottejacobs.net/acting.html</loc>
+  <lastmod>2012-08-10T21:38:39+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
