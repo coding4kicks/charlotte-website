@@ -81,13 +81,6 @@ p {
 	height: 610px; /* TEMP HOLDER */
 	background-color: #FAB56B;
 } 
-#charlotte {
-    float: right;
-    margin-top: 15px;
-    margin-left: 5px;
-    margin-bottom: 5px;
-}
-
 
 /*
  * SIDEBAR NAVIGATION
@@ -136,9 +129,7 @@ p {
     padding-left: 10px;
     
 }
-#charlotte {
-    float: right;
-}
+
 #page>div {
 	position: absolute;
 	width: 70%;
@@ -218,10 +209,19 @@ p {
  * HOME PAGE
  */
 #charlotte {
-    width: 150px;
     height: 150px;
-    
+    float: right;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-bottom: 5px;
 }
+
+#home-book {
+    margin-left: -45px;
+    z-index: 20;
+    height: 420px;
+}
+
 #home-quote{
     font-family: "Comic Sans MS";
 }
@@ -239,7 +239,7 @@ p {
 }
 #index cite {
 	float:none;
-	padding-left: 250px;
+	padding-left: 80px;
 }
 #index p {
     text-indent:24px;
