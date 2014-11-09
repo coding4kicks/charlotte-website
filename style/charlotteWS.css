@@ -341,6 +341,14 @@ em.interview {
 	margin: 10px 20px 0px 0px;
 	float: left;
 }
+
+/*
+ * Reviews Activities Page
+ */
+#reviews-activities cite {
+  padding-left: 80px;
+}
+
  /*
  * CV OVERLAY
  */
