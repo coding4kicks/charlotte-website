@@ -96,7 +96,7 @@ p {
 	display: block;
 	font-size: 120%;
     font-family: Arial, Helvetica, sans-serif;
-	margin: 25px 0px;
+	margin: 25px 0px 25px 5px;
     text-decoration: none;
 	cursor: pointer;
 }
