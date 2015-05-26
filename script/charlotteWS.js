@@ -74,7 +74,7 @@ var cjUtil = {
 
         // Retrieve content for all siblings of home-content div
         $("#page > div").map(function () {
-
+            console.log(this.id);
             var urlPath     =   "content/" + this.id + "-content.html",
                 appendID    =   "#" + this.id,
                 location    =   String(document.location);
